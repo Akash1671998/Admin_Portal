@@ -8,3 +8,7 @@
 
 
 2 ==>> run ther project by npm start commond 
+
+
+# SECRET_KEY="Development@123"
+# TOKENEXPIRE_TIME="5m"
