@@ -1,0 +1,10 @@
+1 ==>>>  packegeJson file in add this for nodemone ={
+
+      "scripts": {
+    "start": "nodemon index.js"
+  },
+
+}
+
+
+2 ==>> run ther project by npm start commond 
